@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jesperbjensen.github.io/csb-vcp1p6/static/css/main.87d9a5f0.chunk.css",
+    "main.js": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/main.0ccfb105.chunk.js",
+    "main.js.map": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/main.0ccfb105.chunk.js.map",
+    "runtime-main.js": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/runtime-main.a7002136.js",
+    "runtime-main.js.map": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/runtime-main.a7002136.js.map",
+    "static/js/2.9f40bec9.chunk.js": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/2.9f40bec9.chunk.js",
+    "static/js/2.9f40bec9.chunk.js.map": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/2.9f40bec9.chunk.js.map",
+    "index.html": "https://jesperbjensen.github.io/csb-vcp1p6/index.html",
+    "static/css/main.87d9a5f0.chunk.css.map": "https://jesperbjensen.github.io/csb-vcp1p6/static/css/main.87d9a5f0.chunk.css.map",
+    "static/js/2.9f40bec9.chunk.js.LICENSE.txt": "https://jesperbjensen.github.io/csb-vcp1p6/static/js/2.9f40bec9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7002136.js",
+    "static/js/2.9f40bec9.chunk.js",
+    "static/css/main.87d9a5f0.chunk.css",
+    "static/js/main.0ccfb105.chunk.js"
+  ]
+}
